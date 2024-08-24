@@ -12,7 +12,7 @@
   
     const navigationLinks = [
       { name: 'Fee info', url: '/fee' },
-      { name: 'Homework', url: '/hw' },
+      { name: 'student', url: '/students' },
       { name: 'Results', url: '/results' },
       { name: 'Courses', url: '/courses' },
       { name: 'Projects', url: '/projects' },

@@ -30,5 +30,9 @@
 		"vite": "^5.0.3",
 		"vitest": "^2.0.0"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"marked": "^14.0.0",
+		"prismjs": "^1.29.0"
+	}
 }
